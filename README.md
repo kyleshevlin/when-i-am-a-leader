@@ -16,6 +16,7 @@ I also encourage you to fork this repository and adopt it as your own. Build up 
 ### Interviewing and Hiring
 
 * If a take home assignment is used to assess a candidate's technical skill, a deadline and time allotment should be established at the time of assignment. The deadline should be reasonably ample to accommodate for busy schedules, but the time allotment _should_ be short, and preferably slightly less than is required for completing the assignment fully. Preferably, it should be less than 4 hours (a half day's work is not a small amount of work if someone is already working a full time job). Be firm about this allotment. Failing to complete the assignment helps to understand how the candidate prioritizes tasks in a time crunch. This will also help you discern whether the candidate prefers to opt for quantity versus quality, grand architecture versus details, etc.
+* Don't put red herrings in an interview question. You're setting both you and the candidate up for failure. I recently saw this in an interview question where the question demanded the solution use a particular function that wasn't useful or a more performant solution. What candidate will have the courage to tell the interviewer they are wrong? The power dynamics are too imbalanced to try and trick a candidate. Nothing is gained for either party.
 
 ### Managing
 
