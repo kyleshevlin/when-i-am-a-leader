@@ -10,8 +10,13 @@ I also encourage you to fork this repository and adopt it as your own. Build up 
 
 ## Table of Contents
 
+* [Culture Building](#culture-building)
 * [Interviewing and Hiring](#interviewing-and-hiring)
 * [Managing](#managing)
+
+### Culture Building
+
+* Small, but significant gestures go a long way. A great example: give everyone a really nice moleskin and several good pens the first day on the job. Everyone writes stuff down from time to time, and giving them some nice tools to do so is a really classy move.
 
 ### Interviewing and Hiring
 
