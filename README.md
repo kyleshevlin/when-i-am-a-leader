@@ -17,6 +17,7 @@ I also encourage you to fork this repository and adopt it as your own. Build up 
 ### Culture Building
 
 * Small, but significant gestures go a long way. A great example: give everyone a really nice moleskin and several good pens the first day on the job. Everyone writes stuff down from time to time, and giving them some nice tools to do so is a really classy move.
+* You can't beat a quality hoodie. Seriously.
 
 ### Interviewing and Hiring
 
@@ -36,3 +37,5 @@ I also encourage you to fork this repository and adopt it as your own. Build up 
 * When new to a leadership position, don't be in a rush to change things. Yes, there might be expectations for you to make changes, but it's worth having the discipline not to rush it. Take the time to understand fully the current status of the team you're leading. Perhaps set an expectation of a time period, 60-90 days before you'll start suggesting changes. This will give you ample time to collect ideas and move forward from there. It also serves the purpose of letting you gain trust before you challenge the status quo.
 * Always listen. The goal is to develop a culture where everyone feels heard. Not everything people will say will be gold, so you don't have to act on everything you hear, but you better hear it first.
 * Respond to feedback as best you can always. Responding poorly even once can ruin a lot of trust.
+* If a direct report says that a problem is hard or challenging, do not assume that they are either not smart enough, lazy, or lying. I don't even understand why this happens. Smart people don't tell you something is difficult without having discovered precisely why a problem is challenging. Instead, ask questions and avoid all condescension. What have you learned? What are you going to try next? Do you think any outside help could help you? Why or why not? Questions will lead to more trust and more information for you.
+* The answer to a problem is not always more minds. Sometimes it's more uninterrupted time. Pay attention to the cost of interruptions! Ask if the answer to a problem is more minds or more time.
